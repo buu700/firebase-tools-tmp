@@ -1,0 +1,1 @@
+{"version":3,"file":"requireInteractive.js","sourceRoot":"","sources":["../src/requireInteractive.ts"],"names":[],"mappings":";;AAEA,mCAAwC;AAExC,SAAwB,kBAAkB,CAAC,OAAgB;IACzD,IAAI,OAAO,CAAC,cAAc,EAAE;QAC1B,OAAO,OAAO,CAAC,MAAM,CACnB,IAAI,qBAAa,CAAC,iDAAiD,EAAE;YACnE,IAAI,EAAE,CAAC;SACR,CAAC,CACH,CAAC;KACH;IACD,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;AAC3B,CAAC;AATD,qCASC"}
